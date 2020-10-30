@@ -1,4 +1,4 @@
-# Angular Basic - Hackerrank Answer- WeatherDetails
+# Angular Basic - WeatherDetails - Hackerrank Answer
 
 <p>
   
