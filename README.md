@@ -4,7 +4,7 @@
   
 <a href="https://badge.fury.io/js/%40angular%2Fcore"><img src="https://badge.fury.io/js/%40angular%2Fcore.svg" alt="npm version" height="18"></a>
   
-<a><img src="https://api.travis-ci.org/davidarputharaj19/TemperatureConverter-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img></a>
+<a><img src="https://travis-ci.org/davidarputharaj19/Angular-WeatherDetails-Hackerrank.svg?branch=master" alt="Build" style="max-width:100%;"></img></a>
 
 <a href="https://snyk.io/test/github/davidarputharaj19/Angular-WeatherDetails-Hackerrank?targetFile=package.json"><img src="https://snyk.io/test/github/davidarputharaj19/Angular-WeatherDetails-Hackerrank/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/davidarputharaj19/Angular-WeatherDetails-Hackerrank?targetFile=package.json" style="max-width:100%;"></a>
 
